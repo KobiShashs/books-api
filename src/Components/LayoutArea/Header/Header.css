@@ -1,0 +1,19 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+a, a:visited {
+    color: var(--color-white);
+}
+
+a:hover {
+    font-size: x-large;
+}
+
+span {
+    font-size: 50px;
+}
